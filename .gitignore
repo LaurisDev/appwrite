@@ -11,6 +11,7 @@
 .DS_Store
 .php_cs.cache
 .phpactor.json
+.scannerwork
 debug/
 app/sdks
 dev/yasd_init.php

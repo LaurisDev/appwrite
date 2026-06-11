@@ -8,5 +8,8 @@
   "files": [
     "docs/examples",
     "app/config/specs"
-  ]
+  ],
+  "devDependencies": {
+    "sonarqube-scanner": "^4.3.6"
+  }
 }
